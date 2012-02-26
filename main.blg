@@ -1,0 +1,30 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: bib.bib
+You're missing a field name---line 5 of file bib.bib
+ :     
+ :     %howpublished = "\url{http://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 19 of file bib.bib
+ :     
+ :     %year    = "1993",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 31 of file bib.bib
+ :     
+ :     %volume  = "14",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 48 of file bib.bib
+ :     
+ :     %address   = "Reading, Massachusetts"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of ""Christopher Brewster, Harith Alani, Sriandan Dasmahapatra, Yorick Wilks"" for entry brewster
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of ""Christopher Brewster, Harith Alani, Sriandan Dasmahapatra, Yorick Wilks"" for entry brewster
+while executing---line 1090 of file plain.bst
+Warning--empty journal in brewster
+Warning--empty year in brewster
+(There were 6 error messages)

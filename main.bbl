@@ -1,0 +1,45 @@
+\begin{thebibliography}{10}
+
+\bibitem{database}
+S.~Sudarshan" "Abraham~Silberschatz, Henry F.~Korth.
+\newblock {\em "Database, System Concepts"}.
+\newblock "McGraw-Hill", "5" edition, "2006".
+
+\bibitem{brewster}
+Sriandan Dasmahapatra Yorick~Wilks" "Christopher~Brewster, Harith~Alani.
+\newblock "data driven ontology evaluation".
+
+\bibitem{website:whatontology}
+"Brice Dunwoodie".
+\newblock "what is an ontology? and why we need them".
+
+\bibitem{yu}
+Andrey~Tam" "Jonathan~Yu, James A.~Thom.
+\newblock "requirements-oriented methodology for evaluating ontologies".
+\newblock {\em Information Systems}, 2009.
+
+\bibitem{website:standford}
+"Natalya~F. Noy and Deborah~L. McGuinness".
+\newblock "ontology development 101: A guide to creating your first ontology".
+
+\bibitem{website:w3c}
+"W3C".
+\newblock "about w3c".
+
+\bibitem{website:wikipediadataintegration}
+"Wikipedia".
+\newblock "data integration".
+
+\bibitem{website:wikipediaontoclean}
+"Wikipedia".
+\newblock "ontoclean".
+
+\bibitem{website:wikipediaontology}
+"Wikipedia".
+\newblock "ontology".
+
+\bibitem{website:wikipediasemanticweb}
+"Wikipedia".
+\newblock "semantic web".
+
+\end{thebibliography}

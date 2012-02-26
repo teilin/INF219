@@ -1,0 +1,14 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Forword}{2}
+\contentsline {section}{\numberline {2}What is an ontology?}{2}
+\contentsline {section}{\numberline {3}Why develop an ontology?}{3}
+\contentsline {section}{\numberline {4}Ontology engineering}{3}
+\contentsline {section}{\numberline {5}How to evaluate an ontology?}{6}
+\contentsline {subsection}{\numberline {5.1}Approaches}{6}
+\contentsline {subsection}{\numberline {5.2}Methodologies}{6}
+\contentsline {subsubsection}{\numberline {5.2.1}OntoClean}{6}
+\contentsline {subsubsection}{\numberline {5.2.2}OntoMetric}{7}
+\contentsline {section}{\numberline {6}Practical usage}{8}
+\contentsline {subsection}{\numberline {6.1}Semantic Web}{8}
+\contentsline {subsection}{\numberline {6.2}Data integration}{9}
+\contentsline {section}{\numberline {7}Conclusion}{9}
